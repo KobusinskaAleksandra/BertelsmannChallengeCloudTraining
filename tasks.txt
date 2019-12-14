@@ -1,0 +1,10 @@
+## Task 2 ##
+
+	a) Clone the original repository (not the fork one)
+	b) Create new local branch, name it as you want, just make sure this name doesn't exist yet
+	c) Checkout your new branch
+	d) Inside "task2-branches" folder create text file and write something inside
+	e) Commit changes and push your new branch to ORIGINAL repository (you should have access by now)
+	f) Once you pushed your changes, open the text file again and write some more things inside
+	g) Don't commit or push last change! We will use it to create merge conflict
+	h) Let me know when you're done and you have new local changes in your file. I will push other changes there and let's try to deal with merge conflict!
