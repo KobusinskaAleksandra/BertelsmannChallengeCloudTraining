@@ -15,3 +15,5 @@ Let's start!
 <br>!g) go back to main (this) repository on authors account and create pull request (probably that won't work automatically, then just let me know to add you as a contributor - my logín on Slack is @Ola)
 
 <br><br>START!
+
+# CHECK OUT NEW TASKS IN TASKS.TXT FILE !
