@@ -1,2 +1,4 @@
 Hi
 This file is created using task2_branch.
+
+More content added to create merge conflict
