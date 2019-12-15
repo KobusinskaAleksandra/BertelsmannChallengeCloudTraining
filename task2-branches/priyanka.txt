@@ -2,3 +2,5 @@ Hi
 This file is created using task2_branch.
 
 More content added to create merge conflict
+
+Hi, I'm an imp and I'm going to make you some trouble.
