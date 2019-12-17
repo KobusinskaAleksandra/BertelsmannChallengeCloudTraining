@@ -1,1 +1,4 @@
-This is a file created in the 'tree_branch' branch.
+1: This is a file created in the 'tree_branch' branch.
+2: This is Line 2.
+3: I also updated the first line, prefixing "1: ".
+4: This is Line 4, anticipating a conflict at merge.
